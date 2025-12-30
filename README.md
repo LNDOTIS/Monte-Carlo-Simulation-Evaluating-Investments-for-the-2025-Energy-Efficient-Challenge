@@ -32,5 +32,8 @@ The repository includes the core simulation model, assumptions, and analyses des
 8. Conclusion
 
 ## Author & Context
-Contact: long2004fin@gmail.com 
-Context: Developed as part of a capital investment and risk analysis project in management accounting and energy efficiency.
+Contact: long2004fin@gmail.com   
+Context: Developed as part of a capital investment and risk analysis project in management accounting and energy efficiency.  
+
+![Case Study Overview](https://raw.githubusercontent.com/LNDOTIS/Monte-Carlo-Simulation-Evaluating-Investments-for-the-2025-Energy-Efficient-Challenge/main/Case%20Study.png)
+
